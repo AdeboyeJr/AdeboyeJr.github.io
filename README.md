@@ -2,6 +2,8 @@
 
 ## Author: Adeboye Adegbenro Jr.
 
+---
+
 #### Description
 
 Created an Animated AR/VR session using the A-Frame framework. Imported assets for the scene as GLTF files. These files make up the models, materials, textures, and animations of the objects. Website is hosted on my personal Github Pages webpage.
@@ -23,4 +25,4 @@ Two generic entities are created and mapped to the gltf-models from the city and
 
 #### Dependencies
 
-You will need a mobile device that supports AR/VR. Web page is hosted on ==https://AdeboyeJr.github.io==
+You will need a mobile device that supports AR/VR. Web page is hosted on `https://AdeboyeJr.github.io`
