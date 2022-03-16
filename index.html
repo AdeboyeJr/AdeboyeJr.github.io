@@ -8,6 +8,20 @@
     <script src="https://aframe.io/releases/1.0.4/aframe.min.js"></script>
 </head>
 <body>
+    <a-scene>
+        <!--Asset Management System-->
+        <a-assets>
+            <a-asset-item id="dragon" src="./assets/dragon/scene.gltf"></a-asset-item>
+            <a-asset-item id="city" src="./assets/city/scene.gltf"></a-asset-item>
+        </a-assets>
+
+
+        <!--City GLTF Model-->
+        <a-entity gltf-model="#city"
+            rotation="0 -90 0"
+            scale
+            position></a-entity>
+    </a-scene>
     
 </body>
 </html>
