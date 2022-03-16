@@ -2,7 +2,6 @@
 
 ## Author: Adeboye Adegbenro Jr.
 
----
 
 #### Description
 
@@ -25,4 +24,4 @@ Two generic entities are created and mapped to the gltf-models from the city and
 
 #### Dependencies
 
-You will need a mobile device that supports AR/VR. Web page is hosted on `https://AdeboyeJr.github.io`
+You will need a mobile device that supports AR/VR. Web page is hosted on ![`https://AdeboyeJr.github.io`](https://AdeboyeJr.github.io)
